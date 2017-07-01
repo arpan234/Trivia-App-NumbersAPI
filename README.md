@@ -17,4 +17,13 @@ Example: MATH (4)
 Example: DATE ( 1/1/1801 )
 January 1st is the day in 1801 that the dwarf planet Ceres is discovered by Giuseppe Piazzi.
 
+# HOW TO RUN ?
+
+1) Install NodeJS first. 
+2) Open git bash at the root of the directory
+3) Enter the command "npm install --save" to install the npm modules.
+4) Enter the command "node server.js" to start the server.
+5) Open the browser and go to localhost:8080 and hit enter.
+6) App will start and you can get particular trivia you want.
+
 For more information about numbersAPI, please go to : http://numbersapi.com
