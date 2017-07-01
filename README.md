@@ -19,9 +19,9 @@ January 1st is the day in 1801 that the dwarf planet Ceres is discovered by Gius
 
 # HOW TO RUN ?
 
-1) Install NodeJS first. 
+1) Install NodeJS first. (https://nodejs.org/en/)
 2) Open git bash at the root of the directory
-3) Enter the command "npm install --save" to install the npm modules.
+3) Enter the command "npm install --save" to install the npm modules.(https://docs.npmjs.com/getting-started/installing-npm-packages-locally)
 4) Enter the command "node server.js" to start the server.
 5) Open the browser and go to localhost:8080 and hit enter.
 6) App will start and you can get particular trivia you want.
